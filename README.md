@@ -1,0 +1,3 @@
+This program is used to randomly genrate the values on dice, eq:(2,2),(4,6)...
+This program uses a builtin library random.
+Thank you
